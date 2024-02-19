@@ -1,0 +1,16 @@
+body{
+    background-color: navajowhite;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+.Welcome_Sign {
+    text-align: center;
+}
+
+.Welcome_Sign h3 {
+    font-size: 2em; 
+}
+
