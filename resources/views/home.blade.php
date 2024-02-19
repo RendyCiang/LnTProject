@@ -12,7 +12,7 @@
             <li>Home</li>
             <li>About Us</li>
             <li>Product</li>
-            <li>View</li>
+            <li><a href="/view">View</a></li>
         </ul>
         <button>Login</button>
     </nav>
@@ -27,5 +27,6 @@
         <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Doloremque fugit repellendus explicabo itaque praesentium qui adipisci rerum, in molestias suscipit, obcaecati voluptatum aliquid laborum? Ipsum laudantium nisi dolorum hic officiis earum quasi, tempora placeat quae provident, sapiente eos fugiat esse.</p>
 
     </div>
+
 </body>
 </html>

@@ -44,8 +44,12 @@ nav{
     background-color: white;
     top: 0;
     left: 0;
+    
 }
-
+nav a{
+    text-decoration: none;
+    color: black;
+}
 nav ul li{
     padding: 20px;
     display: inline;
