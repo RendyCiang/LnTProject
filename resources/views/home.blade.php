@@ -23,7 +23,9 @@
 
     <div class="about">
         <h2>About Us</h2>
+        <img src="assets/chip.jpeg" alt="" class="img_center">
         <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Doloremque fugit repellendus explicabo itaque praesentium qui adipisci rerum, in molestias suscipit, obcaecati voluptatum aliquid laborum? Ipsum laudantium nisi dolorum hic officiis earum quasi, tempora placeat quae provident, sapiente eos fugiat esse.</p>
+
     </div>
 </body>
 </html>
