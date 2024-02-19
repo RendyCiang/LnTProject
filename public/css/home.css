@@ -63,7 +63,7 @@ nav button{
 }
 
 .homepage{
-    background-image: url('/assets/chips.jpg');
+    background-image: url('/assets/chips.jpeg');
     display: flex;
     height: 850px;
     margin-top:20px ;
